@@ -43,3 +43,12 @@ footer {
   background-color: #d35400;
   color: white;
 }
+.whatsapp-float {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+  z-index: 100;
+}
+
