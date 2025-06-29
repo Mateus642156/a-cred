@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   background-color: orange;
-  color: #fff;
+  color: #ee670c;
 }
 
 header {
@@ -18,7 +18,7 @@ header {
 
 main {
   padding: 2rem;
-  background-color: #fff;
+  background-color: #ee6911;
   color: #333;
 }
 
@@ -29,7 +29,7 @@ h2 {
 .whatsapp-button {
   display: inline-block;
   background-color: #25d366;
-  color: white;
+  color: rgb(245, 96, 11);
   padding: 1rem 1.5rem;
   text-decoration: none;
   border-radius: 8px;
@@ -41,7 +41,7 @@ footer {
   text-align: center;
   padding: 1rem;
   background-color: #d35400;
-  color: white;
+  color: rgb(236, 123, 17);
 }
 .whatsapp-float {
   position: fixed;
