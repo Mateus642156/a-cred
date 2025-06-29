@@ -1,8 +1,8 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: orange;
-  color: #ee670c;
+  background-color: rgb(247, 122, 6);
+  color: #e96309;
 }
 
 header {
@@ -28,7 +28,7 @@ h2 {
 
 .whatsapp-button {
   display: inline-block;
-  background-color: #25d366;
+  background-color: #058042;
   color: rgb(245, 96, 11);
   padding: 1rem 1.5rem;
   text-decoration: none;
