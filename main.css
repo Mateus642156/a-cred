@@ -1,14 +1,14 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color:hsl(24, 17%, 94%);
+  background-color: #FFFFFF; /* ou hsl(0, 0%, 100%) */;
   color: #e96309;
 }
 
 header {
   text-align: center;
   padding: 2rem 1rem;
-  background-color: hsl(24, 100%, 41%);
+  background-color: #FFFFFF;
 }
 
 .logo {
@@ -18,7 +18,7 @@ header {
 
 main {
   padding: 2rem;
-  background-color: #ee6911;
+  background-color: #FFFFFF;
   color: #000000;
 }
 
@@ -40,8 +40,8 @@ h2 {
 footer {
   text-align: center;
   padding: 1rem;
-  background-color: hsl(25, 100%, 4%);
-  color: hsl(24, 100%, 41%);
+  background-color:#FFFFFF;
+  color:#000000;
 }
 .whatsapp-float {
   position: fixed;
