@@ -1,14 +1,14 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: rgb(247, 122, 6);
+  background-color:hsl(24, 100%, 41%);
   color: #e96309;
 }
 
 header {
   text-align: center;
   padding: 2rem 1rem;
-  background-color: #d35400;
+  background-color: hsl(24, 100%, 41%);
 }
 
 .logo {
@@ -29,7 +29,7 @@ h2 {
 .whatsapp-button {
   display: inline-block;
   background-color: #058042;
-  color: rgb(245, 96, 11);
+  color: hsl(24, 100%, 41%);
   padding: 1rem 1.5rem;
   text-decoration: none;
   border-radius: 8px;
@@ -40,13 +40,13 @@ h2 {
 footer {
   text-align: center;
   padding: 1rem;
-  background-color: #d35400;
-  color: rgb(236, 123, 17);
+  background-color: hsl(24, 100%, 41%);
+  color: hsl(24, 100%, 41%);
 }
 .whatsapp-float {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  bottom: 30px;
+  right: 30px;
   width: 60px;
   height: 60px;
   z-index: 100;
