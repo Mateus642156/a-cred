@@ -9,20 +9,30 @@
 
 <body>
 
-<header {
+<header class="cabecalho">
+  <h1 class="titulo-site">A + CRED Soluções Financeiras</h1>
+  <img src="logo.png" alt="Logo da empresa" class="logo">
+</header>
+
+.cabecalho {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #FFFFFF; /* fundo branco */
+  background-color: white;
   padding: 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.titulo-site {
+  font-size: 28px;
+  color: black;
+  margin: 0;
 }
 
 .logo {
-  max-height: 80px; /* você pode ajustar o tamanho aqui */
-  height: auto;
+  height: 100px; /* Aumente ou diminua conforme necessário */
   width: auto;
 }
-
 
   <main>
     <section>
