@@ -1,8 +1,8 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #FFFFFF; /* ou hsl(0, 0%, 100%) */;
-  color: #e96309;
+  background-color: #f75e18; /* ou hsl(0, 0%, 100%) */;
+  color: #e9630900;
 }
 
 header {
@@ -23,7 +23,7 @@ main {
 }
 
 h2 {
-  color: #d35400;
+  color: #d3540000;
 }
 
 .whatsapp-button {
