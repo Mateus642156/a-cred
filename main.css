@@ -49,5 +49,6 @@ footer {
  .imagem-direita{
   float: right;
   margin-left: 20px;
-  width: 150%;
+  width: 100%; 
+  height: auto;
  }
