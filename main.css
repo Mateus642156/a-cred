@@ -45,6 +45,7 @@ footer {
   background-color: #FFA500; /* Fundo laranja */
   color: #000000;
 }
+   
 
  .imagem-direita{
   float: right;
@@ -52,3 +53,11 @@ footer {
   width: 300px; /* Ajuste o tamanho conforme necessário */
   height: auto; /* Manter proporção da imagem */
  }
+
+ 
+  .imagem-esquerda{
+    float: left;
+    margin-right: 20px;
+    width: 250px; /* Ajuste o tamanho conforme necessário */
+    height: auto; /* Manter proporção da imagem */
+  }
