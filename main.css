@@ -46,4 +46,8 @@ footer {
   color: #000000;
 }
 
- 
+ .imagem-direita{
+  float: right;
+  margin-left: 20px;
+  width: 100px; /* Ajuste o tamanho conforme necessário */
+ }
