@@ -49,5 +49,6 @@ footer {
  .imagem-direita {
   float: right;
   margin-left: 20px;
-  width: 300px; /* Ajuste o tamanho conforme necessário */
+  width: 100px; /* Ajuste o tamanho conforme necessário */
+  height: auto; /* Mantém a proporção da imagem */
  }
