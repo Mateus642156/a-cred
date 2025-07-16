@@ -50,4 +50,5 @@ footer {
   float: right;
   margin-left: 20px;
   width: 300px; /* Ajuste o tamanho conforme necessário */
+  height: auto; /* Manter proporção da imagem */
  }
