@@ -1,0 +1,75 @@
+/* Tema claro */
+body.light {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: linear-gradient(135deg, #ffecd2, #fcb69f); /* degrade suave laranja/rosa */
+  color: #333;
+}
+
+body.light h1 {
+  color: #d35400;
+}
+
+/* Tema escuro */
+body.dark {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); /* degrade azul escuro elegante */
+  color: #f0f0f0;
+}
+
+body.dark h1 {
+  color: #00f2fe;
+}
+
+/* Inputs e botões */
+input, button {
+  margin: 5px;
+  padding: 10px 15px;
+  border-radius: 6px;
+  border: none;
+  font-size: 14px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 700px;
+  border: 1px solid #333;
+  margin-top: 10rem;
+  height: auto;
+  padding: 20px;
+  text-align: center;
+  background: linear-gradient(135deg, #ffecd2, #fcb69f);
+  border: none;
+}
+
+input {
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Área de resultado */
+#resultado {
+  margin-top: 20px;
+  padding: 15px;
+  background: rgba(255,255,255,0.9);
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  font-weight: bold;
+}
+
+body.dark #resultado {
+  background: rgba(0,0,0,0.6);
+}

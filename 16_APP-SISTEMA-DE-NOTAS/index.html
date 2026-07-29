@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="main.css">
+    <script src="script.js"></script>
+</head>
+<body>
+
+    <div class="container">
+             <h1>Sistema de Notas dos Alunos</h1>
+                <input type="text" id="nome" placeholder="Nome do aluno">
+                <input type="number" id="nota" placeholder="Nota do aluno">
+                <button onclick="adicionarAluno()">Adicionar Aluno</button>
+                <button onclick="calcularMedia()">Calcular Média</button>
+                <button onclick="mostrarMaiorMenorEmpates()">Maior/menor nota (com empates)</button>
+                <button onclick="ordenarPorNota()">Ordenar por Nota</button>
+                <button onclick="mostrarFrequenciaNotas()">Frequência das Notas</button>
+                <button onclick="alternarTema()">Alternar Tema</button>
+
+                <div id="resultado"></div>
+    </div>
+
+</body>
+</html>
