@@ -1,27 +1,47 @@
-# Sistema de Notas dos Alunos
+# 💼 Mateus Henrique Rodrigues de Lima
 
-Projeto desenvolvido para praticar **HTML, CSS e JavaScript**.
+**Desenvolvedor Front-end Júnior**
 
-## Funcionalidades
-- Adicionar alunos com nome e nota
-- Calcular média da turma
-- Mostrar maior e menor nota (com empates)
-- Ordenar alunos por nota
-- Exibir frequência das notas
-- Alternar entre tema claro e escuro com degradê moderno
+📍 Matão – SP  
+📞 (16) 98178-6112  
+✉️ delimamateushenriquerodrigues@mail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mateus-henrique-de-lima-7375a6309) | [GitHub](https://github.com/Mateus642156)
 
-## Tecnologias usadas
-- HTML5
-- CSS3 (gradientes, temas alternáveis)
-- JavaScript (map, filter, reduce, sort, forEach)
+---
 
-## Aprendizados
-- Manipulação de arrays de objetos
-- Comparações e estatísticas
-- Manipulação de DOM
-- Criação de interfaces modernas com CSS
+## 📄 Currículo Profissional
+👉 [Baixar Currículo (100% compatível com ATS)](CURRICULO-PASSADO-PELO_ATS%20100%.pdf)
 
-## Como executar
-1. Clone este repositório
-2. Abra o arquivo `index.html` no navegador
-https://alunonotas.netlify.app
+---
+
+## 💻 Sobre mim
+Busco minha primeira oportunidade como **Desenvolvedor Front-end Júnior**, aplicando conhecimentos em **HTML, CSS, JavaScript, TypeScript e React.js**.  
+Tenho foco em **boas práticas de código**, **consumo de APIs REST**, **UI/UX**, **versionamento com Git/GitHub** e **colaboração em equipe**.
+
+---
+
+## 🚀 Habilidades Técnicas
+- **Front-end:** HTML • CSS • JavaScript • TypeScript • React.js  
+- **Complementares:** Node.js • Git • GitHub • APIs REST  
+- **Metodologias:** Scrum • Desenvolvimento Ágil • Versionamento de código  
+- **Extras:** Responsividade • Mobile-first • UI/UX • Acessibilidade • Performance  
+
+---
+
+## 🎓 Formação Acadêmica
+**Graduação em Análise e Desenvolvimento de Sistemas — Cruzeiro do Sul (Cursando)**  
+📅 Início: 02/2025 – Previsão de conclusão: 12/2027  
+📍 Matão – SP  
+
+---
+
+## 🏅 Cursos e Certificações
+- Desenvolvimento Front-end (HTML, CSS, JavaScript, React e Node.js) — Udemy / Alura  
+- Git e GitHub: Versionamento de Código — Plataforma X  
+- Fundamentos de UI/UX Design — Plataforma Y  
+
+---
+
+## 🌐 Idiomas & Competências Interpessoais
+- **Idiomas:** Português (Nativo) • Inglês (Intermediário – leitura técnica)  
+- **Competências:** Comunicação • Trabalho em equipe • Resolução de problemas • Proatividade • Aprendizado rápido  
